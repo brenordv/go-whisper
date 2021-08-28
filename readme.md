@@ -27,7 +27,8 @@ If person A wants to talk to person B, then:
 - Every received messaged will have this prefix: ```< ```
 - To quit, Person A or B can simply kill the application or type /quit (and press enter)
 
-
+## Installation
+Just unzip and run whisper.exe (or whisper, if you're on linux). To uninstall, just delete the file.
 
 ## How to use
 Consider the example from the previous item.
