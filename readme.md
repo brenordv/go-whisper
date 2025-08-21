@@ -1,3 +1,5 @@
+> I ported this tool to Rust. You can find it here: https://github.com/brenordv/rusted-toolbox/blob/master/crates/tool-whisper/readme.md
+
 # Whisper
 This is a super bare-bones secure peer-to-peer chat application.
 That's it. Simple as that. To use it, someone must wait for connection and somebody else must connect to them.
